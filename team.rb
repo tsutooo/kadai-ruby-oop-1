@@ -25,10 +25,10 @@ BayStars = Team.new('BayStars',56,58,6)
 Carp = Team.new('Carp',52,56,12)
 Swallows = Team.new('Swallows',41,69,10)
 
-Giants.show_team_result()
-Tigers.show_team_result()
-Dragons.show_team_result()
-BayStars.show_team_result()
-Carp.show_team_result()
-Swallows.show_team_result()
+Giants.show_team_result
+Tigers.show_team_result
+Dragons.show_team_result
+BayStars.show_team_result
+Carp.show_team_result
+Swallows.show_team_result
   
